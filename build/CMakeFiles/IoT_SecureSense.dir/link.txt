@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/IoT_SecureSense.dir/src/main.cpp.o CMakeFiles/IoT_SecureSense.dir/src/sensor.cpp.o -o IoT_SecureSense
